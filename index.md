@@ -1,3 +1,4 @@
 # hello world
 
-[alt-text!](https://pin.it/6LzVetzVY)
+[alt-text!](https://octodex.github.com/images/yaktocat.png)
+
